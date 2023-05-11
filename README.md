@@ -8,12 +8,12 @@ implementing elegant and intuitive user interfaces.
 Throughout my career, I have consistently demonstrated 
 my ability to work collaboratively with cross-functional teams to 
 deliver high-quality software products 
-that exceed customer expectations.
+that exceed customer expectations.<br>
 
-🔭 I’m currently working on Swift(UIKit)
-🤝 I’m looking for help with
-🌱 I’m currently learning Swift(SwiftUI), C++
-💬 Ask me about Swift or Objective-C
+🔭 I’m currently working on Swift(UIKit)<br>
+🤝 I’m looking for help with<br>
+🌱 I’m currently learning Swift(SwiftUI), C++<br>
+💬 Ask me about Swift or Objective-C<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kichibekov69) 
