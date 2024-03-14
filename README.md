@@ -21,14 +21,6 @@ that exceed customer expectations.<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramiz69&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/ramiz69)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ramiz69&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-[![](https://visitcount.itsvg.in/api?id=Ramiz69&icon=0&color=12)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   <a href="https://www.buymeacoffee.com/ramiz069" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
